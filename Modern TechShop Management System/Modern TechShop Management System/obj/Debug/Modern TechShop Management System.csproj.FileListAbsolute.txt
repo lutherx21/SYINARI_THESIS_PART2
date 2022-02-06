@@ -1,0 +1,19 @@
+C:\Users\programmer\Desktop\SYINARI THESIS\Modern TechShop Management System\Modern TechShop Management System\bin\Debug\Modern TechShop Management System.exe.config
+C:\Users\programmer\Desktop\SYINARI THESIS\Modern TechShop Management System\Modern TechShop Management System\bin\Debug\Modern TechShop Management System.exe
+C:\Users\programmer\Desktop\SYINARI THESIS\Modern TechShop Management System\Modern TechShop Management System\bin\Debug\Modern TechShop Management System.pdb
+C:\Users\programmer\Desktop\SYINARI THESIS\Modern TechShop Management System\Modern TechShop Management System\obj\Debug\Modern TechShop Management System.csprojResolveAssemblyReference.cache
+C:\Users\programmer\Desktop\SYINARI THESIS\Modern TechShop Management System\Modern TechShop Management System\obj\Debug\Modern_TechShop_Management_System.Form1.resources
+C:\Users\programmer\Desktop\SYINARI THESIS\Modern TechShop Management System\Modern TechShop Management System\obj\Debug\Modern_TechShop_Management_System.Properties.Resources.resources
+C:\Users\programmer\Desktop\SYINARI THESIS\Modern TechShop Management System\Modern TechShop Management System\obj\Debug\Modern TechShop Management System.csproj.GenerateResource.Cache
+C:\Users\programmer\Desktop\SYINARI THESIS\Modern TechShop Management System\Modern TechShop Management System\obj\Debug\Modern TechShop Management System.exe
+C:\Users\programmer\Desktop\SYINARI THESIS\Modern TechShop Management System\Modern TechShop Management System\obj\Debug\Modern TechShop Management System.pdb
+C:\Users\programmer\Desktop\SYINARI THESIS\Modern TechShop Management System\Modern TechShop Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\programmer\Desktop\SYINARI THESIS\Modern TechShop Management System\Modern TechShop Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\programmer\Desktop\SYINARI THESIS\Modern TechShop Management System\Modern TechShop Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\programmer\Desktop\SYINARI THESIS\Modern TechShop Management System\Modern TechShop Management System\obj\Debug\Modern TechShop Management System.exe.licenses
+C:\Users\programmer\Desktop\SYINARI THESIS\Modern TechShop Management System\Modern TechShop Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\programmer\Desktop\SYINARI THESIS\Modern TechShop Management System\Modern TechShop Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\programmer\Desktop\SYINARI THESIS\Modern TechShop Management System\Modern TechShop Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\programmer\Desktop\SYINARI THESIS\Modern TechShop Management System\Modern TechShop Management System\obj\Debug\Modern_TechShop_Management_System.Form2.resources
+C:\Users\programmer\Desktop\SYINARI THESIS\Modern TechShop Management System\Modern TechShop Management System\bin\Debug\CircularProgressBar.dll
+C:\Users\programmer\Desktop\SYINARI THESIS\Modern TechShop Management System\Modern TechShop Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
